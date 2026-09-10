@@ -6,6 +6,12 @@ A beginner MATLAB project that analyzes and visualizes sample geospatial elevati
 
 This project was built as a hands-on introduction to MATLAB with a focus on geospatial data analysis. The script stores geographic coordinates and elevation values, performs basic statistical analysis, identifies the highest-elevation observation, and visualizes the results.
 
+## Visualization
+
+The analyzer generates an elevation comparison plot for the sample Colorado locations.
+
+![Elevation by Location](elevation_plot.png)
+
 ## Features
 
 - Stores latitude, longitude, elevation, and location data
